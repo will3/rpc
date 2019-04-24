@@ -1,5 +1,5 @@
 {
-  "name": "rpc-server",
+  "name": "@will3/rpc-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
